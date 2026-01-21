@@ -1,1 +1,1 @@
-this is my videi automation system
+this is my video automation system.
